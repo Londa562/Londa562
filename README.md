@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Londa562
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning .harvard CS50..
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .instagram @chichi londa..
 
 <!---
